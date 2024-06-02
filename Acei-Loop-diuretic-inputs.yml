@@ -1,0 +1,270 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/acei-loop-diuretic-m1-imidapril---primary.py
+inputModule3:
+  class: File
+  path: python/acei-loop-diuretic-m1-100mg---primary.py
+inputModule4:
+  class: File
+  path: python/acei-loop-diuretic-m1-erbumine---primary.py
+inputModule5:
+  class: File
+  path: python/acei-loop-diuretic-m1-320mg---primary.py
+inputModule6:
+  class: File
+  path: python/acei-loop-diuretic-m1-625mg---primary.py
+inputModule7:
+  class: File
+  path: python/acei-loop-diuretic-m1-400mg---primary.py
+inputModule8:
+  class: File
+  path: python/acei-loop-diuretic-m1-lopace---primary.py
+inputModule9:
+  class: File
+  path: python/acei-loop-diuretic-m1-250mg---primary.py
+inputModule10:
+  class: File
+  path: python/acei-loop-diuretic-m1-500microgram---primary.py
+inputModule11:
+  class: File
+  path: python/acei-loop-diuretic-m1-150mg---primary.py
+inputModule12:
+  class: File
+  path: python/acei-loop-diuretic-m1-tritace---primary.py
+inputModule13:
+  class: File
+  path: python/acei-loop-diuretic-m1-olmesartan---primary.py
+inputModule14:
+  class: File
+  path: python/acei-loop-diuretic-m1-ramipril---primary.py
+inputModule15:
+  class: File
+  path: python/acei-loop-diuretic-m1-fosinopril---primary.py
+inputModule16:
+  class: File
+  path: python/acei-loop-diuretic-m1-solution---primary.py
+inputModule17:
+  class: File
+  path: python/acei-loop-diuretic-m1-perdix---primary.py
+inputModule18:
+  class: File
+  path: python/acei-loop-diuretic-m1-aprovel---primary.py
+inputModule19:
+  class: File
+  path: python/acei-loop-diuretic-m1-180mg---primary.py
+inputModule20:
+  class: File
+  path: python/acei-loop-diuretic-m1-500mg---primary.py
+inputModule21:
+  class: File
+  path: python/acei-loop-diuretic-m1-trandolapril---primary.py
+inputModule22:
+  class: File
+  path: python/acei-loop-diuretic-m1-wafer---primary.py
+inputModule23:
+  class: File
+  path: python/acei-loop-diuretic-m1-gopten---primary.py
+inputModule24:
+  class: File
+  path: python/acei-loop-diuretic-m1-tablet---primary.py
+inputModule25:
+  class: File
+  path: python/acei-loop-diuretic-m1-candesartan---primary.py
+inputModule26:
+  class: File
+  path: python/acei-loop-diuretic-m1-bumetanide---primary.py
+inputModule27:
+  class: File
+  path: python/acei-loop-diuretic-m1-tosilate---primary.py
+inputModule28:
+  class: File
+  path: python/acei-loop-diuretic-m1-ampoule---primary.py
+inputModule29:
+  class: File
+  path: python/acei-loop-diuretic-m1-cozaarcomp---primary.py
+inputModule30:
+  class: File
+  path: python/acei-loop-diuretic-m1-staril---primary.py
+inputModule31:
+  class: File
+  path: python/acei-loop-diuretic-m1-300mg---primary.py
+inputModule32:
+  class: File
+  path: python/acei-loop-diuretic-m1-160mg---primary.py
+inputModule33:
+  class: File
+  path: python/acei-loop-diuretic-m1-burinex---primary.py
+inputModule34:
+  class: File
+  path: python/acei-loop-diuretic-m1-carace---primary.py
+inputModule35:
+  class: File
+  path: python/acei-loop-diuretic-m1-vascace---primary.py
+inputModule36:
+  class: File
+  path: python/acei-loop-diuretic-m1-tanatril---primary.py
+inputModule37:
+  class: File
+  path: python/acei-loop-diuretic-m1-chloride---primary.py
+inputModule38:
+  class: File
+  path: python/intravenous-acei-loop-diuretic-m1---primary.py
+inputModule39:
+  class: File
+  path: python/acei-loop-diuretic-m1-cilazapril---primary.py
+inputModule40:
+  class: File
+  path: python/dryptal-acei-loop-diuretic-m1---primary.py
+inputModule41:
+  class: File
+  path: python/acei-loop-diuretic-m1-quinapril---primary.py
+inputModule42:
+  class: File
+  path: python/acei-loop-diuretic-m1-coversyl---primary.py
+inputModule43:
+  class: File
+  path: python/acei-loop-diuretic-m1-capozide---primary.py
+inputModule44:
+  class: File
+  path: python/acei-loop-diuretic-m1-suspension---primary.py
+inputModule45:
+  class: File
+  path: python/acei-loop-diuretic-m1-torem---primary.py
+inputModule46:
+  class: File
+  path: python/acei-loop-diuretic-m1-losartan---primary.py
+inputModule47:
+  class: File
+  path: python/acei-loop-diuretic-m1-odrik---primary.py
+inputModule48:
+  class: File
+  path: python/acei-loop-diuretic-m1-captopril---primary.py
+inputModule49:
+  class: File
+  path: python/acei-loop-diuretic-m1-teveten---primary.py
+inputModule50:
+  class: File
+  path: python/acei-loop-diuretic-m1-amlodipine---primary.py
+inputModule51:
+  class: File
+  path: python/acei-loop-diuretic-m1-indapamide---primary.py
+inputModule52:
+  class: File
+  path: python/acei-loop-diuretic-m1-modifiedrelease---primary.py
+inputModule53:
+  class: File
+  path: python/acei-loop-diuretic-m1-syringe---primary.py
+inputModule54:
+  class: File
+  path: python/acei-loop-diuretic-m1-lisopress---primary.py
+inputModule55:
+  class: File
+  path: python/acei-loop-diuretic-m1-enalapril---primary.py
+inputModule56:
+  class: File
+  path: python/acei-loop-diuretic-m1-coamilofruse---primary.py
+inputModule57:
+  class: File
+  path: python/acei-loop-diuretic-m1-moexipril---primary.py
+inputModule58:
+  class: File
+  path: python/acei-loop-diuretic-m1-exforge---primary.py
+inputModule59:
+  class: File
+  path: python/acei-loop-diuretic-m1-eprosartan---primary.py
+inputModule60:
+  class: File
+  path: python/acei-loop-diuretic-m1-zestril---primary.py
+inputModule61:
+  class: File
+  path: python/acei-loop-diuretic-m1-ecopace---primary.py
+inputModule62:
+  class: File
+  path: python/acei-loop-diuretic-m1-accupro---primary.py
+inputModule63:
+  class: File
+  path: python/acei-loop-diuretic-m1-irbesartan---primary.py
+inputModule64:
+  class: File
+  path: python/acei-loop-diuretic-m1-capsule---primary.py
+inputModule65:
+  class: File
+  path: python/acei-loop-diuretic-m1-innovace---primary.py
+inputModule66:
+  class: File
+  path: python/acei-loop-diuretic-m1-arginine---primary.py
+inputModule67:
+  class: File
+  path: python/acei-loop-diuretic-m1-kaplon---primary.py
+inputModule68:
+  class: File
+  path: python/acei-loop-diuretic-m1-amiloride---primary.py
+inputModule69:
+  class: File
+  path: python/acei-loop-diuretic-m1-tensopril---primary.py
+inputModule70:
+  class: File
+  path: python/zestoretic-acei-loop-diuretic-m1---primary.py
+inputModule71:
+  class: File
+  path: python/acei-loop-diuretic-m1-capoten---primary.py
+inputModule72:
+  class: File
+  path: python/acei-loop-diuretic-m1-azilsartan---primary.py
+inputModule73:
+  class: File
+  path: python/acei-loop-diuretic-m1-acepril---primary.py
+inputModule74:
+  class: File
+  path: python/acei-loop-diuretic-m1-olmetec---primary.py
+inputModule75:
+  class: File
+  path: python/acei-loop-diuretic-m1-quinil---primary.py
+inputModule76:
+  class: File
+  path: python/acei-loop-diuretic-m1-titration---primary.py
+inputModule77:
+  class: File
+  path: python/acei-loop-diuretic-m1-perindopril---primary.py
+inputModule78:
+  class: File
+  path: python/etacrynic-acei-loop-diuretic-m1---primary.py
+inputModule79:
+  class: File
+  path: python/pralenal-acei-loop-diuretic-m1---primary.py
+inputModule80:
+  class: File
+  path: python/acei-loop-diuretic-m1-ednyt---primary.py
+inputModule81:
+  class: File
+  path: python/acei-loop-diuretic-m1-600mg---primary.py
+inputModule82:
+  class: File
+  path: python/acei-loop-diuretic-m1-torasemide---primary.py
+inputModule83:
+  class: File
+  path: python/acei-loop-diuretic-m1-codiovan---primary.py
+inputModule84:
+  class: File
+  path: python/acei-loop-diuretic-m1-valsartan---primary.py
+inputModule85:
+  class: File
+  path: python/acei-loop-diuretic-m1-captomex---primary.py
+inputModule86:
+  class: File
+  path: python/acei-loop-diuretic-m1-triamterene---primary.py
+inputModule87:
+  class: File
+  path: python/acei-loop-diuretic-m1-furosemide---primary.py
+inputModule88:
+  class: File
+  path: python/acei-loop-diuretic-m1-minijet---primary.py
+inputModule89:
+  class: File
+  path: python/acei-loop-diuretic-m1-lasix---primary.py
+inputModule90:
+  class: File
+  path: python/output-cases.py
